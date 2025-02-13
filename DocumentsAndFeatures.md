@@ -78,3 +78,9 @@ Here is a sentence with a footnote.[^1]
 > [!question] Can callouts be nested?
 > > [!todo] Yes!, they can.
 > > > [!example]  You can even use multiple layers of nesting.
+
+```mermaid
+graph TB
+ A --> B
+ C ---> D
+```
